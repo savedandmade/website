@@ -30,9 +30,9 @@
             </p>
 
             <p class="copy-text">
-            The materials are mostly sourced from Army surplus as well as from used tents, truck tarpaulins, and 
+            The materials are mostly sourced from used tents, truck tarpaulins, and 
             deconstructed army surplus. I try to preserve original features where possible, preserving authenticity 
-            and adding to the identity of each item. In some products, you might see the outline of an old pocket, 
+            and adding to the identity of each item. In some products, you might see the outline of an old fastening, 
             the evidence of something removed, or even a secret pocket!
             </p>
         </div>
