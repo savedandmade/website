@@ -3,7 +3,6 @@
 <?php include("header.php"); ?>
 <!-- page content -->
 
-
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
