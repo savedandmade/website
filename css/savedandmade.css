@@ -20,3 +20,10 @@
     float: right!important;
     text-align: right;
 }
+
+.link,
+a {
+    color: var(--bs-purple);
+  text-decoration: none!important;
+}
+
